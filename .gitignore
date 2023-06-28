@@ -25,3 +25,5 @@ docs/10 grundlagen
 img
 
 src/pages/markdown-page.md
+slides/
+/src/pages/slides.md

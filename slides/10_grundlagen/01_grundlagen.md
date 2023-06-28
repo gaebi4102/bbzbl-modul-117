@@ -26,9 +26,9 @@ footer: BBZBL / Gianluca Aebi / Informatik- und Netzinfrastruktur für ein klein
 ::: columns
 
 - **1. Block**  | Begrüssung 
-    - [Moduleinführung](https://gaebi4102.github.io/bbzbl-modul-231/docs/)
-    - [Quartalsplan](https://gaebi4102.github.io/bbzbl-modul-231/docs/)
-    - [LBs](https://gaebi4102.github.io/bbzbl-modul-231/docs/02%20beurteilungen)
+    - [Moduleinführung](https://gaebi4102.github.io/bbzbl-modul-117/docs/)
+    - [Quartalsplan](https://gaebi4102.github.io/bbzbl-modul-117/docs/)
+    - [Kompetenzmatrix](https://gaebi4102.github.io/bbzbl-modul-117/docs/02%20beurteilungen)
 - **2. Block** | Informationssicherheit
 ::: split
 - **3. Block** | Daten
@@ -40,27 +40,31 @@ footer: BBZBL / Gianluca Aebi / Informatik- und Netzinfrastruktur für ein klein
 
 # Modulidentifikation
 
-| Modulnummer | 231 |
+| Modulnummer | 117 |
 |:--------------- | :--------------- |
-| Kompetenz | Setzt Datenschutz und Datensicherheit bei Informatiksystemen ein. Überprüft vorhandene Systeme auf Einhaltung von Richtlinien. |
+| Kompetenz | Lokales Netzwerk ohne zentrale Benutzerverwaltung installieren. |
 | Lektionen | 36 |
-| Beschreibung | [231 auf Modulbaukasten.ch](https://www.modulbaukasten.ch/module/231/1/de-DE?title=Datenschutz-und-Datensicherheit-anwenden) |
+| Beschreibung | [117 auf Modulbaukasten.ch](https://www.modulbaukasten.ch/module/117/4/de-DE?title=Informatik--und-Netzinfrastruktur-f%C3%BCr-ein-kleines-Unternehmen-realisieren) |
 
 ---
 
 # Modul Lernziele :dart:
 
-1. Kategorisiert Daten aufgrund ihres Schutzbedarfes. 
+1. Mit dem Auftraggeber die Anforderungen an das zu installierende Netzwerk aufnehmen und die gewünschten Dienste/Services bestimmen (Client-Vernetzung, Internet, Cloud).
 
-2. Überprüft und verbessert gegebenenfalls die Datensicherheit der eigenen Infrastruktur.
+2. Logischen und physischen Aufbau des Netzwerks gemäss betrieblichen Anforderungen und räumlichen Verhältnissen definieren und in einem Netzwerkschema und einem Verkabelungsplan abbilden.
 
-3. Setzt verschiedene Möglichkeiten der Datenspeicherung ein.
+3. Arbeitsschritte für die Installation und Konfiguration planen, welche die Verbindung vom UGV-Anschluss zum Benutzerendgerät und die Patchung im zentralen Verteilrack berücksichtigen.
 
-4. Überprüft eingesetzte Anwendungen auf Einhaltung der Datenschutzgesetze.
+---
 
-5. Zeigt Konsequenzen von Fehlern im Datenschutz und bei der Datensicherheit auf.
+4. Netzwerk aufbauen und die Netzwerkkomponenten gemäss Herstellerdokumentationen installieren und konfigurieren.
 
-6. Wählt Software für die Einhaltung von Datenschutz und Datensicherheit aufgrund der Lizenzmodelle aus.
+5. Ressourcenverwaltung (Gruppen, Shares) und File-/ Printsharing definieren und dabei die Vorgaben hinsichtlich Datensicherheit und Verfügbarkeit berücksichtigen.
+
+6. Nach Vorgaben die Funktionalität, Performance, Sicherheit des Netzes, Datenzugriff der angeschlossenen Peripheriegeräte überprüfen.
+
+7. Netzwerk und angeschlossene Systeme testen und die Testergebnisse dokumentieren.
 
 ---
 
