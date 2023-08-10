@@ -12,16 +12,16 @@ sidebar_position: 1
 
 |         Woche          |             Datum             | Thema                                             | Leistungsbewertung |
 | :--------------------: | :---------------------------: | :------------------------------------------------ | :----------------- |
-|     Woche&nbsp;1       |          27.04.2023 / 28.04.2023           | [Informationen zum Modul](./category/grundlagen)|
-|     Woche&nbsp;2       |          04.05.2023 / 05.05.2023           | [Datenschutz](./category/datenschutz)             |
-|     Woche&nbsp;3       |          11.05.2023 / 12.05.2023          | [Datensicherheit](./category/datensicherheit)     |
-|     Woche&nbsp;4       |          25.05.2023 / 26.05.2023           | [Identity und Access Management ](./category/identity-und-access-management) |
-|     Woche&nbsp;5       |          01.06.2023 / 02.06.2023           | [Lizenzen](./category/lizenzen)                   |
-|     Woche&nbsp;6       |          08.06.2023 / 09.06.2023           | [Massnahmen](./category/massnahmen)               |
-|     Woche&nbsp;7       |          15.06.2023 / 16.06.2023           | [Frameworks](./category/frameworks)               |
-|   **Woche&nbsp;8**     |         **22.06.2023 / 23.06.2023**        | [Verschlüsselung](./category/verschlüsselung) | **[LB1]** 
-|   **Woche&nbsp;9**     |        **29.06.2023 / 30.06.2023**         | **Abgabe**            | **[LB2]** **[LB3]**       |
+|     Woche&nbsp;1       |          18.08.2023           | [Netzwerkanforderungen](./category/grundlagen)|
+|     Woche&nbsp;2       |          25.08.2023           | [Netzwerkschema](./category/)             |
+|     Woche&nbsp;3       |          01.09.2023           | [Netzwerkschema](./category/)     |
+|     Woche&nbsp;4       |          08.09.2023           | [Netzwerkinstallation ](./category/) |
+|     Woche&nbsp;5       |          15.09.2023           | [Ressourcenverwaltung](./category/lizenzen)    |
+|     Woche&nbsp;6       |          22.09.2023           | [Werkstatt](./category/)               |
+|     Woche&nbsp;7       |          29.09.2023           | [Werkstatt](./category/)               |
+|     **Ferien**         |  **06.10.2023 / 13.10.2023**  |  **Abgabe bis am 13.10.2023 um 23:59** |[Kompetenzmatrix] |     
+|   **Woche&nbsp;8**     |         **20.09.2023**        |  **Fachgespräch Block 1** | [Kompetenzmatrix]| 
+|   **Woche&nbsp;9**     |        **29.09.2023**         |  **Fachgespräch Block 2** | [Kompetenzmatrix]| 
 
-[LB1]: ./02%20beurteilungen/lb1
-[LB2]: ./02%20beurteilungen/lb2
-[LB3]: ./02%20beurteilungen/lb3
+[Lernjournal]: ./02%20beurteilungen/Lernjournal.md
+[Kompetenzmatrix]: ./02%20beurteilungen/Kompetenzmatrix.md
