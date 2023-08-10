@@ -12,14 +12,12 @@ footer: BBZBL / Gianluca Aebi / Informatik- und Netzinfrastruktur für ein klein
 
 ---
 
-
 <!-- _class: big center -->
 ### Grundlagen
 # Tools und Aufbau des Moduls
 ## Modul 117
 
 ---
-
 
 # Agenda
 
@@ -35,6 +33,60 @@ footer: BBZBL / Gianluca Aebi / Informatik- und Netzinfrastruktur für ein klein
 - **4. Block** | Sicherheit und Risiko
 
 :::
+
+---
+
+<!-- _class: big -->
+
+# Regeln :cop: 
+
+- Pünktlichkeit
+- Aufmerksamkeit während des Unterrichts
+- Selbständiges Arbeiten
+- Internet als Arbeitsmittel
+
+---
+
+<!-- _class: big -->
+
+# Heutige Ziele :dart:
+
+- **Modulwebseite** kennen und anwenden
+- Sie wissen was ein Netzwerk ist.
+- Sie kennen die Verschiedenen Dienste in einem Netzwerk.
+- Sie können ein Netzwerk Diagramm Interpretieren.
+
+---
+
+# Die Modulwebseite  [:link:](https://gaebi4102.github.io/bbzbl-modul-231/)
+
+<!-- - **Faktenblatt**: Übersicht über alle Themen  -->
+<!-- - **INB21A**: Quartalübersicht und Wochenpräsentationen -->
+
+::: columns
+
+**Lektionen**
+Wochenfolien und die Quartalsübersicht
+
+**Beurteilungen** 
+Prüfungsrelevante Infos 
+
+::: split
+
+**:pencil: Grundlagen**
+Grundlagen zum Thema und Einstieg ins Modul
+
+:::
+
+## :link: https://gaebi4102.github.io/bbzbl-modul-117/
+
+---
+
+<!-- _class: big center -->
+
+# :superhero: 
+
+Die Aufgaben eines Kapitels sind aufeinander aufbauend.
 
 ---
 
@@ -72,99 +124,18 @@ footer: BBZBL / Gianluca Aebi / Informatik- und Netzinfrastruktur für ein klein
 
 ::: columns
 
-## LB1 25%
+## Lernjournal 25%
 
-### :pencil: Lernjournal
-
-- Woche 1 - 9 
 - Journal das während des Unterrichts geführt wird.
 
-[:link: details...](https://gaebi4102.github.io/bbzbl-modul-231/docs/02%20beurteilungen/lb1)
-
+[:link: details...](https://gaebi4102.github.io/bbzbl-modul-117/docs/02%20beurteilungen/Lernjournal)
 
 ::: split
 
-## LB2 25%
+## Kompetenzmatrix 75%
 
-### :pencil: Prüfung
-
-- Woche 8
 - Prüfung über Theorie des Moduls
 
-[:link: details...](https://gaebi4102.github.io/bbzbl-modul-231/docs/02%20beurteilungen/lb2)
+[:link: details...](https://gaebi4102.github.io/bbzbl-modul-117/docs/02%20beurteilungen/Kompetenzmatrix)
 
 :::
-
----
-
-# Leistungsbeurteilungsvorgabe :muscle: 
-
-## LB3 50%
-
-### :pencil: Projektarbeit 
-
-- Woche 9
-- Projektarbeit zur Fallstudie 
-
-[:link: details...](https://gaebi4102.github.io/bbzbl-modul-231/docs/02%20beurteilungen/lb3)
-
-
-
----
-
-<!-- _class: big -->
-
-# Regeln :cop: 
-
-- Pünktlichkeit
-- Aufmerksamkeit während des Unterrichts
-- Selbständiges Arbeiten
-- Internet als Arbeitsmittel
-
----
-
-<!-- _class: big -->
-
-# Heutige Ziele :dart:
-
-- **Modulwebseite** kennen und anwenden
-- Sie kennen die unterschiedlichen Arten von Informationen.
-- Sie kennen die Grundlage von Informationssicherheit.
-- Sie kennen die unterschiedlichen Arten von Daten.
-- Sie kennen die unterschiedlichen Zustände, welche Daten haben können.
-- Sie kennen die Unterschiede zwischen Security und Safety.
-- Sie kennen die Grundlagen vom Risikomanagement.
-
----
-
-# Die Modulwebseite  [:link:](https://gaebi4102.github.io/bbzbl-modul-231/)
-
-<!-- - **Faktenblatt**: Übersicht über alle Themen  -->
-<!-- - **INB21A**: Quartalübersicht und Wochenpräsentationen -->
-
-::: columns
-
-**Lektionen**
-Wochenfolien und die Quartalsübersicht
-
-**Beurteilungen** 
-Prüfungsrelevante Infos 
-
-::: split
-
-**:pencil: Grundlagen**
-Grundlagen zum Thema und Einstieg ins Modul
-
-:::
-
-## :link: https://gaebi4102.github.io/bbzbl-modul-231/
-
----
-
-<!-- _class: big center -->
-
-# :superhero: 
-
-Die Aufgaben eines Kapitels sind aufeinander aufbauend.
-
-
