@@ -12,7 +12,7 @@ sidebar_position: 1
 
 |         Woche          |             Datum             | Thema                                             | Leistungsbewertung |
 | :--------------------: | :---------------------------: | :------------------------------------------------ | :----------------- |
-|     Woche&nbsp;1       |          18.08.2023           | [Netzwerkanforderungen](./category/grundlagen)|
+|     Woche&nbsp;1       |          18.08.2023           | [Netzwerkanforderungen](./category/woche-1---grundlagen)|
 |     Woche&nbsp;2       |          25.08.2023           | [Netzwerkschema](./category/)             |
 |     Woche&nbsp;3       |          01.09.2023           | [Netzwerkschema](./category/)     |
 |     Woche&nbsp;4       |          08.09.2023           | [Netzwerkinstallation ](./category/) |
