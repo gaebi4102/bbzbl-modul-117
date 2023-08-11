@@ -22,5 +22,4 @@ yarn-error.log*
 #Draft
 
 src/pages/markdown-page.md
-slides
 /src/pages/slides.md
