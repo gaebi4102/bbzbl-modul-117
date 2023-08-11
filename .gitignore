@@ -20,9 +20,6 @@ yarn-debug.log*
 yarn-error.log*
 
 #Draft
-docs/02 beurteilungen
-docs/10 grundlagen
-img
 
 src/pages/markdown-page.md
 slides
