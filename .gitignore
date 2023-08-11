@@ -20,6 +20,3 @@ yarn-debug.log*
 yarn-error.log*
 
 #Draft
-
-src/pages/markdown-page.md
-/src/pages/slides.md
