@@ -18,7 +18,7 @@ Falls du ein M1 oder M2 Mac hast komme auf mich zu, ich habe extra ARM VMs erste
 
 Auf der [Webseite des ersten Schultag](https://sites.google.com/bbzbl-it.ch/modul212/werkzeuge/soft-und-hardware-angebote#h.wk9tjd5qaob7) findest du die Anleitung um Zugang zu VMware Workstation zu erhalten.
 
-## Digramme
+## Digramme
 
 Für die Organigramme, Netzwerk Digramme etc. empfehle ich dir eines dieser Tools:
 
