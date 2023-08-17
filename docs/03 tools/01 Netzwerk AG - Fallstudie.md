@@ -34,35 +34,32 @@ Kontaktieren Sie uns noch heute, um mehr über unsere umfassenden IT-Dienstleist
 
 
 ## Organigramm
-Geschäftsführer:
 
-Name: Max Mustermann
+[![Org](../img/NetzwerkAG.png)](https://gaebi4102.github.io/bbzbl-modul-117/docs/img/NetzwerkAG.png)
+
+**CEO - Max Mustermann**
 Verantwortlich für die strategische Ausrichtung und Geschäftsentwicklung des Unternehmens.
-Abteilung Vertrieb und Kundenservice:
 
-Abteilungsleiter: Anna Musterfrau
+**Abteilung Vertrieb und Kundenservice - Anna Musterfrau**
 Zuständig für die Akquise neuer Kunden, Kundenbetreuung und Kundensupport.
-Abteilung IT-Lösungen:
 
-Abteilungsleiter: Peter Beispielmann
+**Abteilung IT-Lösungen - Peter Beispielmann**
 Verantwortlich für das Design, die Implementierung und Wartung von IT-Lösungen für Kunden.
-Abteilung IT-Sicherheit:
 
-Abteilungsleiter: Lisa Testfrau
+**Abteilung IT-Sicherheit - Lisa Testfrau**
 Zuständig für die Analyse von Sicherheitslücken, Implementierung von Sicherheitsmaßnahmen und Incident Response.
-Abteilung Cloud-Services:
 
-Abteilungsleiter: Tom Musterherr
+**Abteilung Cloud-Services - Tom Musterherr**
 Verantwortlich für die Bereitstellung und Verwaltung von Cloud-Lösungen für Kunden.
-Abteilung IT-Support:
 
-Abteilungsleiter: Sarah Testfrau
+**Abteilung IT-Support - Sarah Testfrau**
 Zuständig für den technischen Support und die Wartung der IT-Systeme der Kunden.
 
 
 
 ## Raumlichkeiten 
-Die Räumlichkeiten von "Netzwerk AG IT-Dienstleistungen" sind darauf ausgerichtet, eine moderne und produktive Arbeitsumgebung für unser Team zu schaffen, während wir qualitativ hochwertige IT-Dienstleistungen erbringen. Hier ist eine Beschreibung der wichtigsten Bereiche:
+Die Räumlichkeiten von "Netzwerk AG IT-Dienstleistungen" sind darauf ausgerichtet, eine moderne und produktive Arbeitsumgebung für unser Team zu schaffen, während wir qualitativ hochwertige IT-Dienstleistungen erbringen. 
+Hier ist eine Beschreibung der wichtigsten Bereiche:
 
 1. Empfangsbereich: Beim Betreten des Gebäudes werden Kunden und Besucher von einem freundlichen Empfangsbereich begrüsst. Hier befindet sich eine Rezeption, an der sie von unseren Empfangsmitarbeitern herzlich empfangen werden.
 
