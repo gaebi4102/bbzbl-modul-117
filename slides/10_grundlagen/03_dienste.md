@@ -21,10 +21,16 @@ footer: BBZBL / Gianluca Aebi / Informatik- und Netzinfrastruktur für ein klein
 
 ---
 # File Server
-
+[![File Server](../images/FileServer.jpg)](.)
 
 ---
 # Print Server
+[![Print Server](../images/Printserver.jpeg)](https://www.tonerpartner.ch/printserver/)
 
 ---
 # Verzeichnis Dienst
+[![Verzeichnis Dienst](../images/verzeichnisdienstAD.jpeg)](https://landesrechenzentrum.thueringen.de/it-landesdienstleister/kommunikationsdienste/ad-verzeichnisdienst)
+
+---
+[![Verzeichnis Dienst](../images/ldap.gif)](https://www.elektronik-kompendium.de/sites/net/0905011.htm)
+
