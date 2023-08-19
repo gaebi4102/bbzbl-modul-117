@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+keywords:
+  - pdf
 ---
 
 # 1.  Tools und Aufbau des Moduls
