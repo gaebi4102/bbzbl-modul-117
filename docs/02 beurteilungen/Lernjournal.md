@@ -1,3 +1,7 @@
+---
+keywords:
+  - pdf
+---
 # Lernjournal 
 
 Die Führung eines Lernjournals ermöglicht Ihnen eine persönliche Auseinandersetzung mit neu erworbenem Wissen. Durch das Reflektieren des eigenen Lernprozesses wird Ihr persönlicher Fortschritt sichtbar, nachhaltig unterstützt und verbessert. Bei der Vertiefung der Lerninhalte werden aber auch offene Fragen notiert, welche im späteren Verlauf des Moduls geklärt werden müssen, damit ihre Wissenslücken geschlossen werden können.

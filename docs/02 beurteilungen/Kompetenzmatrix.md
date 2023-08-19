@@ -1,3 +1,8 @@
+---
+keywords:
+  - pdf
+---
+
 # Kompetenzmatrix
 
 Praxis Transfer der Theorie.

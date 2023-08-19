@@ -4,4 +4,5 @@ module.exports = {
   repoName: "bbzbl-modul-117",
   url: 'https://gaebi4102.github.io',
   organizationName: "gaebi4102", 
+  pdfFilterKeyword: "pdf"
 }
