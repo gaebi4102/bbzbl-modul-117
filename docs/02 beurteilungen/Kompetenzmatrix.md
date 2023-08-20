@@ -43,7 +43,7 @@ In **LAB 2** erstellt Sie Folgendes in den VMs:
 - eine Drucker Freigabe von zwei Drucker
 - Die User und Gruppen müssen auf den beiden Windows VMs Identisch sein
 
-Im **Fachgesprech** erkären Sie Folgendes:
+Im **Fachgespräch** erkären Sie Folgendes:
 - Netzwerk Diagramm
     - Layer 2
     - Layer 3
