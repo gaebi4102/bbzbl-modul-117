@@ -45,6 +45,8 @@ footer: BBZBL / Gianluca Aebi / Informatik- und Netzinfrastruktur für ein klein
 
 ---
 # Static vs. Dynamic
+[![Static vs. Dynamic](../images/staticvsdynamicip.png)](https://avocado89.medium.com/networking-static-ip-vs-dynamic-ip-56785ee9b1e4)
 
 ---
 # IPv6 - Logische Adresse
+[![IPv6](../images/IPv6-Adresse.png)](https://www.heise.de/select/ct/2019/12/1559577580718293#&gid=1&pid=3)

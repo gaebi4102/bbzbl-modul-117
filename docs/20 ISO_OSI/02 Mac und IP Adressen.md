@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+keywords:
+  - pdf
 ---
 
 # 1.  MAC und IP Adressen
@@ -14,9 +16,9 @@ Was ist eine IP Adresse?
 
 ## Präsentation
 
-[:computer: Im Browser öffnen](pathname:///slides/10_grundlagen/02_netzwerk) | [:floppy_disk: PDF speichern](pathname:///slides/10_grundlagen/02_netzwerk)
+[:computer: Im Browser öffnen](pathname:///slides/20_iso_osi/02_Adressierung) | [:floppy_disk: PDF speichern](pathname:///slides/20_iso_osi/02_Adressierung)
 
-<iframe src="/bbzbl-modul-117/slides/10_grundlagen/02_netzwerk"></iframe>
+<iframe src="/bbzbl-modul-117/slides/20_iso_osi/02_Adressierung"></iframe>
 
 
 :::tip Quellen
@@ -25,14 +27,8 @@ Was ist eine IP Adresse?
 
 - [**OMF:** IP-Adresse](https://omf.ai/lexikon/ip-adresse/)
 
+- [**Privacy Papa:** Difference between static, dynamic, public & private IP addresses](https://www.privacypapa.com/static-dynamic-public-private-ip-address/)
+
+- [**Elektronik-Kompendium.de** IPv6](https://www.elektronik-kompendium.de/sites/net/0812201.htm)
+
 :::
-
-## Auftrag
-
-- Bilden Sie 7 Gruppen, jede Gruppe stellt eine OSI-Schicht vor.
-- Erstellen sie eine kurze Präsentation oder Plakatt zu ihrer Zugeteilten Schicht.
-  - Welche Protokolle hat es in der Schicht?
-  - Für was wird die Schicht verwendet?
-  - Was befindet sich in der Schicht z.b. Kabel oder Router?
-
-[![ISO/ OSI Model](../img/iso-osi-schichtenmodell.jpg)](https://dev-supp.de/netzwerk-anonymitaet/iso-osi-referenzmodell)

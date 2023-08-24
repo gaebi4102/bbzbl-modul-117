@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+keywords:
+  - pdf
 ---
 
 # 1.  Netzwerkschichten nach ISO/OSI Model
@@ -10,6 +12,13 @@ Welche Schichten hat es in einem Netzwerk?
 
 * Sie wissen, welche Schichten es nach ISO/ OSI gibt.
 * Sie wissen, in welche Schicht welche Technology etc. gehört.
+
+## Präsentation
+
+[:computer: Im Browser öffnen](pathname:///slides/20_iso_osi/01_grundlagen) | [:floppy_disk: PDF speichern](pathname:///slides/20_iso_osi/01_grundlagen)
+
+<iframe src="/bbzbl-modul-117/slides/20_iso_osi/01_grundlagen"></iframe>
+
 
 ## Auftrag
 
