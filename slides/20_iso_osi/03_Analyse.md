@@ -41,9 +41,7 @@ footer: BBZBL / Gianluca Aebi / Informatik- und Netzinfrastruktur für ein klein
 # Skizze der Räumlichkeiten
 
 ---
-# Netzwerk Schema L2
-![L2](../images/Netzwerk Schmea-Layer 2.drawio.png)
+![L2](../images/NetzwerkSchmea-Layer2.png)
 
 ---
-# Netzwerk Schema L3
-![L3](../images/Netzwerk Schmea-Layer 3.drawio.png)
+![L3](../images/NetzwerkSchmea-Layer3.png)
