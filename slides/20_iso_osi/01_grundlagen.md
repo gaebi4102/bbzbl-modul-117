@@ -60,15 +60,14 @@ footer: BBZBL / Gianluca Aebi / Informatik- und Netzinfrastruktur für ein klein
     - 
 
 ---
-# Layer 5 - Session Layer - Kommunikationsschicht/Sitzungsschicht
-- HTTP, SMTP und FTP
+# Zusammenfasung: 
 
----
-# Layer 6 - Presentation Layer - Darstellungsschicht
+7. Schicht / Anwendung: Funktionen für Anwendungen, sowie die Dateneingabe und -ausgabe.
+6. Schicht / Darstellung: Umwandlung der systemabhängigen Daten in ein unabhängiges Format.
+5. Schicht / Kommunikation: Steuerung der Verbindungen und des Datenaustauschs.
+4. Schicht / Transport: Zuordnung der Datenpakete zu einer Anwendung.
+3. Schicht / Vermittlung: Routing der Datenpakete zum nächsten Knoten.
+2. Schicht / Sicherung: Segmentierung der Pakete in Frames und Hinzufügen von Prüfsummen.
+1. Schicht / Bitübertragung: Umwandlung der Bits in ein zum Medium passendes Signal und physikalische Übertragung.
 
----
-# Layer 7 - Application Layer - Anwendungsschicht
-
-
----
-
+Quelle: https://www.elektronik-kompendium.de/sites/kom/0301201.htm
