@@ -33,9 +33,9 @@ title: Slides
 
 ### 02 Adressierung
 
-[:computer: Im Browser öffnen](pathname:///slides/20_iso_osi/02_adressierung) | [:floppy_disk: PDF speichern](pathname:///slides/20_iso_osi/02_adressierung)
+[:computer: Im Browser öffnen](pathname:///slides/20_iso_osi/02_Adressierung) | [:floppy_disk: PDF speichern](pathname:///slides/20_iso_osi/02_Adressierung.md)
 
-<iframe src="/bbzbl-modul-117/slides/20_iso_osi/02_adressierung"></iframe>
+<iframe src="/bbzbl-modul-117/slides/20_iso_osi/02_Adressierung"></iframe>
 
 ### 03 Analyse
 
