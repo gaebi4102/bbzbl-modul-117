@@ -36,3 +36,14 @@ footer: BBZBL / Gianluca Aebi / Informatik- und Netzinfrastruktur für ein klein
 - Budget, sonstige Resourcen
 - Zeit für Umsetzung
 - Verfügbarkeit von Resourcen
+
+---
+# Skizze der Räumlichkeiten
+
+---
+# Netzwerk Schema L2
+![L2](../images/Netzwerk Schmea-Layer 2.drawio.png)
+
+---
+# Netzwerk Schema L3
+![L3](../images/Netzwerk Schmea-Layer 3.drawio.png)

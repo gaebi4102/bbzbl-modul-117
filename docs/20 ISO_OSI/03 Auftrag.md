@@ -26,4 +26,4 @@ Vorlage auf Google Drive!
 :::
 
 ## Auftrag
-Beginnen sie mit der Analyse der Fall Studie.
+Beginnen Sie mit der Analyse der Fall Studie.

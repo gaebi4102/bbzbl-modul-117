@@ -23,7 +23,7 @@ Welche Schichten hat es in einem Netzwerk?
 ## Auftrag
 
 - Bilden Sie 7 Gruppen, jede Gruppe stellt eine OSI-Schicht vor.
-- Erstellen sie eine kurze Präsentation oder Plakatt zu ihrer Zugeteilten Schicht.
+- Erstellen Sie eine kurze Präsentation oder Plakatt zu ihrer Zugeteilten Schicht.
   - Welche Protokolle hat es in der Schicht?
   - Für was wird die Schicht verwendet?
   - Was befindet sich in der Schicht z.b. Kabel oder Router?
