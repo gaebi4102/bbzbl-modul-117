@@ -26,13 +26,21 @@ footer: BBZBL / Gianluca Aebi / Informatik- und Netzinfrastruktur für ein klein
 
 ---
 # IPv4 - Logische Adresse
-[![IP Adresse](../images/IP_Grafik.png)](https://de.ryte.com/wiki/IP-Adresse)
-
-- 32-Bit lang unterteilt in 4 Oktette (jeweils 8 Bit)
-- Grundsätzlich 4,3 Milliarden Adressen
+[![IP Adresse](../images/ipv4.png)](https://bluecatnetworks.com/glossary/what-is-ipv4/)
 
 ---
-# Private vs. Public
+# IPv4 - Subnetting
+[![IP Adresse](../images/what-is-a-subnet-how-subnetting-works-2.png)](https://gcore.com/de/learning/what-is-a-subnet-how-subnetting-works/)
+
+---
+[![IP Adresse](../images/subnetting-mask.jpg)](https://ipcisco.com/lesson/subnetting-examples/)
+
+---
+# IPv4 - Classen
+[![IP Adresse](../images/what-is-a-subnet-how-subnetting-works-3.png)](https://gcore.com/de/learning/what-is-a-subnet-how-subnetting-works/)
+
+---
+# Private IP
 
 | historische Namen | CIDR-Notation | Netzadressbereich | Anzahl Adressen |
 | -------- | ------------ | ---------------------- |----------------|
@@ -41,7 +49,22 @@ footer: BBZBL / Gianluca Aebi / Informatik- und Netzinfrastruktur für ein klein
 | Klasse C  | 192.168.0.0/16   | 192.168.0.0 bis 192.168.255.255 | 65'536 |
 
 ---
+# Subnetzmasken
+[![Public IP](../images/Subnetzmaske.png)](https://www.scaleuptech.com/blog/was-ist-und-wie-funktioniert-subnetting/)
+
+---
+Number of hosts = 2^(number of host bits)-2
+
+---
 [![IP Adresse](../images/noplacelike.webp)](https://medium.com/@hackersleague/theres-no-place-like-127-0-0-1-explained-1e6af9368e32)
+
+---
+# Public IP
+[![Public IP](../images/Public-vs-local-IP-addresses.png)](https://www.avg.com/en/signal/public-vs-private-ip-address)
+
+---
+# NAT
+[![NAT](../images/NAT_Concept.png)](https://en.wikipedia.org/wiki/Network_address_translation)
 
 ---
 # Static vs. Dynamic
