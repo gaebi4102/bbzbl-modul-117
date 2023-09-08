@@ -83,7 +83,7 @@ Unsere Räumlichkeiten wurden mit dem Ziel gestaltet, eine inspirierende und eff
 ## Netzwerk Umgebung
 Das Firmennetzwerk von "Netzwerk AG IT-Dienstleistungen" ist ein hochmodernes und gut strukturiertes IT-Netzwerk, das darauf ausgerichtet ist, eine sichere, stabile und effiziente Kommunikation und Zusammenarbeit innerhalb des Unternehmens sowie mit externen Partnern und Kunden zu ermöglichen. Hier sind einige wichtige Merkmale und Komponenten des Firmennetzwerks:
 
-1. Netzwerktopologie: Das Netzwerk von Netzwerk AG verwendet ein Baum. Dies ermöglicht eine zentrale Verwaltung und schnelle Kommunikation zwischen den verschiedenen Abteilungen und Büros.
+1. Netzwerktopologie: Das Netzwerk von Netzwerk AG verwendet ein Baumstruktur. Dies ermöglicht eine zentrale Verwaltung und schnelle Kommunikation zwischen den verschiedenen Abteilungen und Büros.
 
 2. Router und Switches: Im Kern des Netzwerks befinden sich leistungsstarke Router und Switches, die den Datenverkehr effizient steuern und die Übertragungsgeschwindigkeiten optimieren.
 
