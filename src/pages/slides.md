@@ -37,8 +37,15 @@ title: Slides
 
 <iframe src="/bbzbl-modul-117/slides/20_iso_osi/02_Adressierung"></iframe>
 
-### 03 Analyse
+## W3 - Netzwerkdokumentation
+### 01 Netzwerkdiagramm
 
-[:computer: Im Browser öffnen](pathname:///slides/20_iso_osi/03_Analyse) | [:floppy_disk: PDF speichern](pathname:///slides/20_iso_osi/03_Analyse)
+[:computer: Im Browser öffnen](pathname:///slides/40_netzwerkdiagramm/01_Netzwerkdiagramm) | [:floppy_disk: PDF speichern](pathname:///slides/40_netzwerkdiagramm/01_Netzwerkdiagramm)
 
-<iframe src="/bbzbl-modul-117/slides/20_iso_osi/03_Analyse"></iframe>
+<iframe src="/bbzbl-modul-117/slides/40_netzwerkdiagramm/01_Netzwerkdiagramm"></iframe>
+
+### 04 Analyse
+
+[:computer: Im Browser öffnen](pathname:///slides/40_netzwerkdiagramm/04_Analyse) | [:floppy_disk: PDF speichern](pathname:///slides/40_netzwerkdiagramm/04_Analyse)
+
+<iframe src="/bbzbl-modul-117/slides/40_netzwerkdiagramm/04_Analyse"></iframe>

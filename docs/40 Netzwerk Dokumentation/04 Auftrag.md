@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 keywords:
   - pdf
 ---
@@ -14,9 +14,9 @@ Wie kann man die Bedürfnis einer Firma Analyse und ein Ziel Zustand definieren?
 
 ## Präsentation
 
-[:computer: Im Browser öffnen](pathname:///slides/20_iso_osi/03_Analyse) | [:floppy_disk: PDF speichern](pathname:///slides/20_iso_osi/03_Analyse)
+[:computer: Im Browser öffnen](pathname:///slides/40_netzwerkdiagramm/04_Analyse) | [:floppy_disk: PDF speichern](pathname:///slides/40_netzwerkdiagramm/04_Analyse)
 
-<iframe src="/bbzbl-modul-117/slides/20_iso_osi/03_Analyse"></iframe>
+<iframe src="/bbzbl-modul-117/slides/40_netzwerkdiagramm/04_Analyse"></iframe>
 
 
 :::tip Quellen
