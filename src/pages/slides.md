@@ -44,8 +44,8 @@ title: Slides
 
 <iframe src="/bbzbl-modul-117/slides/40_netzwerkdiagramm/01_Netzwerkdiagramm"></iframe>
 
-### 04 Analyse
+### 03 Analyse
 
-[:computer: Im Browser öffnen](pathname:///slides/40_netzwerkdiagramm/04_Analyse) | [:floppy_disk: PDF speichern](pathname:///slides/40_netzwerkdiagramm/04_Analyse)
+[:computer: Im Browser öffnen](pathname:///slides/40_netzwerkdiagramm/03_Analyse) | [:floppy_disk: PDF speichern](pathname:///slides/40_netzwerkdiagramm/03_Analyse)
 
-<iframe src="/bbzbl-modul-117/slides/40_netzwerkdiagramm/04_Analyse"></iframe>
+<iframe src="/bbzbl-modul-117/slides/40_netzwerkdiagramm/03_Analyse"></iframe>

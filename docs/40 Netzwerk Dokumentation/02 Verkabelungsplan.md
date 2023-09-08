@@ -15,16 +15,15 @@ Welche Informationen gehörten in einen Verkabelungsplan?
 
 ## Präsentation
 
-[:computer: Im Browser öffnen](pathname:///slides/40_netzwerkdiagramm/01_Netzwerkdiagramm) | [:floppy_disk: PDF speichern](pathname:///slides/40_netzwerkdiagramm/01_Netzwerkdiagramm)
+[:computer: Im Browser öffnen](pathname:///slides/40_netzwerkdiagramm/02_Verkabelungsplan) | [:floppy_disk: PDF speichern](pathname:///slides/40_netzwerkdiagramm/02_Verkabelungsplan)
 
-<iframe src="/bbzbl-modul-117/slides/40_netzwerkdiagramm/01_Netzwerkdiagramm"></iframe>
+<iframe src="/bbzbl-modul-117/slides/40_netzwerkdiagramm/02_Verkabelungsplan"></iframe>
 
 
 ## Auftrag
 
-- Erstellen Sie ein Layer 2 Diagramm von Ihrem Heimnetztwerk.
-- Erstellen Sie ein Layer 3 Diagramm von Ihrem Heimnetztwerk.
-- Besprechen und vergleichen Sie Ihre die beiden Diagrammen mit einer Kollegin / Kollege.
+- Erstellen Sie ein Verkablungsplan auf dem Grundriss welchen im google drive zur Verfügung steht.
+- Besprechen und vergleichen Sie Ihre den Verkabelungsplan mit einer Kollegin / Kollege.
   - Dokumentieren Sie die Unterschiede
 
 # Tools
