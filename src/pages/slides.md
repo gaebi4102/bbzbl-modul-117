@@ -7,19 +7,19 @@ title: Slides
 ## W1 - Grundlagen 
 ### 01 Tools und Aufbau des Moduls
 
-[:computer: Im Browser öffnen](pathname:///slides/10_grundlagen/01_grundlagen) | [:floppy_disk: PDF speichern](pathname:///slides/10_grundlagen/01_grundlagen)
+[:computer: Im Browser öffnen](pathname:///slides/10_grundlagen/01_grundlagen) | [:floppy_disk: PDF speichern](pathname:///slides/10_grundlagen/01_grundlagen.pdf)
 
 <iframe src="/bbzbl-modul-117/slides/10_grundlagen/01_grundlagen"></iframe>
 
 ### 02 Netzwerk
 
-[:computer: Im Browser öffnen](pathname:///slides/10_grundlagen/02_netzwerk) | [:floppy_disk: PDF speichern](pathname:///slides/10_grundlagen/02_netzwerk)
+[:computer: Im Browser öffnen](pathname:///slides/10_grundlagen/02_netzwerk) | [:floppy_disk: PDF speichern](pathname:///slides/10_grundlagen/02_netzwerk.pdf)
 
 <iframe src="/bbzbl-modul-117/slides/10_grundlagen/02_netzwerk"></iframe>
 
 ### 03 Dienste
 
-[:computer: Im Browser öffnen](pathname:///slides/10_grundlagen/03_dienste) | [:floppy_disk: PDF speichern](pathname:///slides/10_grundlagen/03_dienste)
+[:computer: Im Browser öffnen](pathname:///slides/10_grundlagen/03_dienste) | [:floppy_disk: PDF speichern](pathname:///slides/10_grundlagen/03_dienste.pdf)
 
 <iframe src="/bbzbl-modul-117/slides/10_grundlagen/03_dienste"></iframe>
 
@@ -27,25 +27,25 @@ title: Slides
 ## W2 - Aufbau von Netzwerk 
 ### 01 Tools und Aufbau des Moduls
 
-[:computer: Im Browser öffnen](pathname:///slides/20_iso_osi/01_grundlagen) | [:floppy_disk: PDF speichern](pathname:///slides/20_iso_osi/01_grundlagen)
+[:computer: Im Browser öffnen](pathname:///slides/20_iso_osi/01_grundlagen) | [:floppy_disk: PDF speichern](pathname:///slides/20_iso_osi/01_grundlagen.pdf)
 
 <iframe src="/bbzbl-modul-117/slides/20_iso_osi/01_grundlagen"></iframe>
 
 ### 02 Adressierung
 
-[:computer: Im Browser öffnen](pathname:///slides/20_iso_osi/02_Adressierung) | [:floppy_disk: PDF speichern](pathname:///slides/20_iso_osi/02_Adressierung.md)
+[:computer: Im Browser öffnen](pathname:///slides/20_iso_osi/02_Adressierung) | [:floppy_disk: PDF speichern](pathname:///slides/20_iso_osi/02_Adressierung.pdf
 
 <iframe src="/bbzbl-modul-117/slides/20_iso_osi/02_Adressierung"></iframe>
 
 ## W3 - Netzwerkdokumentation
 ### 01 Netzwerkdiagramm
 
-[:computer: Im Browser öffnen](pathname:///slides/40_netzwerkdiagramm/01_Netzwerkdiagramm) | [:floppy_disk: PDF speichern](pathname:///slides/40_netzwerkdiagramm/01_Netzwerkdiagramm)
+[:computer: Im Browser öffnen](pathname:///slides/40_netzwerkdiagramm/01_Netzwerkdiagramm) | [:floppy_disk: PDF speichern](pathname:///slides/40_netzwerkdiagramm/01_Netzwerkdiagramm.pdf)
 
 <iframe src="/bbzbl-modul-117/slides/40_netzwerkdiagramm/01_Netzwerkdiagramm"></iframe>
 
 ### 03 Analyse
 
-[:computer: Im Browser öffnen](pathname:///slides/40_netzwerkdiagramm/03_Analyse) | [:floppy_disk: PDF speichern](pathname:///slides/40_netzwerkdiagramm/03_Analyse)
+[:computer: Im Browser öffnen](pathname:///slides/40_netzwerkdiagramm/03_Analyse) | [:floppy_disk: PDF speichern](pathname:///slides/40_netzwerkdiagramm/03_Analyse.pdf)
 
 <iframe src="/bbzbl-modul-117/slides/40_netzwerkdiagramm/03_Analyse"></iframe>
