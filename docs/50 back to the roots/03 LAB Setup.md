@@ -9,6 +9,7 @@ keywords:
 ## Filius / Lernanwendung
 Installieren Sie [Filius / Lernanwendung](../03%20tools/02%20Tools#filius--lernanwendung) und stellen Sie nachfolegendes Setup nach.
 
+![Aufgabe 1](../img/Aufgabe1.png)
 
 ## VMware
 - Installieren Sie VMware Workstation respektive VMware Fusion auf Ihrem Gerät
