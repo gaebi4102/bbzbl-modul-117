@@ -16,3 +16,4 @@ sidebar_position: 2
 | **Wie lange muss die Beschreibung sein und welche punkte muss sie beinhalten?** | ??? |
 | **Welche Räume müssen bei den Räumlichkeiten dabei sein?**                 | Empfang, Serverraum, Sitzungszimmer, Einzel Büro für GL und Grossraum Büro für jedes Team |
 | **Welche Punkte muss die Netzwerk Umgebung beinhalten?**                   | Jede Abteilung sollte ihr eigene Netzwerkbereich haben und dann alle Komponenten die es Benötigt |
+|**Wie viele Leute sind jeweils in einer Abteilung? Also pro Büro wie viele Arbeitsbereiche**| 5 Personen pro Büro |
