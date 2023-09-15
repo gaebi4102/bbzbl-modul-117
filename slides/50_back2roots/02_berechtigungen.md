@@ -40,7 +40,7 @@ footer: BBZBL / Gianluca Aebi / Informatik- und Netzinfrastruktur für ein klein
 # Share Berechtigungen
 | Gruppe     | Berechtigung     | Pfad        | Beschreibung                         |
 |------------|------------------|-------------|--------------------------------------|
-| Daten_IT_R | Lese             | \\FS001.bbzbl.ch\Daten\IT | Lese Gruppe für IT Share|
+| Daten_IT_R | Lese             | \\\FS001.bbzbl.ch\Daten\IT | Lese Gruppe für IT Share|
 | Daten_IT_W | Schreib und Lese | D:\Daten\IT | Schreib und Lese Gruppe für IT Share |
 
 ---
