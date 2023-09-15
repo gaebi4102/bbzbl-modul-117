@@ -7,7 +7,9 @@ hide_table_of_contents: true
 <Event time="12:45">
 
 ## :blue_book: Kabel und Stecker
+
 - :loudspeaker: Theorie
+
 - :pencil2: Aufgabe
 
 </Event>
@@ -21,6 +23,7 @@ hide_table_of_contents: true
 ## :blue_book: Berechtigungen
 
 - :loudspeaker: Theorie
+
 - :pencil2: Aufgabe
 
 </Event>
@@ -34,7 +37,9 @@ hide_table_of_contents: true
 ## :microscope: Lab Setup
 
 - :wrench: Filius Setup
+
 - :pencil2: Aufgabe 1
+
 - :wrench: vmware Workstation Setup
 
 </Event>
@@ -48,6 +53,7 @@ hide_table_of_contents: true
 ## :page_with_curl: Fallstudie
 
 - :interrobang: Fallstudie Q&A
+
 - :page_with_curl: Freies Arbeite an Fallstudie
 
 </Event>
