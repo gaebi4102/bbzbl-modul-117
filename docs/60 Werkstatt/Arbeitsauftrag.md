@@ -4,7 +4,7 @@ keywords:
   - pdf
 ---
 
-:::note 
+:::tip
 
 **Erste Schritte - werden wir gemeinsam Erledigen!**
 Führen Sie die Schritte in der Anleitung aus 02_vmLF1 eigene MAC ändern-V1.0.pdf
@@ -25,7 +25,7 @@ How-to vmLF1 die 3 VMnet Schnittstellen konfigurieren.pdf
 4. Richten Sie den Zugriff auf dem anderen System den Zugriff auf die Freigabe ein.
 
 
-:::tip
+:::danger
 
 **Dokumentieren Sie alle Arbeitsschritte in Ihrem Lernjournal!**
 
