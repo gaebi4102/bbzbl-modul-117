@@ -7,7 +7,9 @@ keywords:
 :::tip
 
 **Erste Schritte - werden wir gemeinsam Erledigen!**
+
 Führen Sie die Schritte in der Anleitung aus 02_vmLF1 eigene MAC ändern-V1.0.pdf
+
 How-to vmLF1 die 3 VMnet Schnittstellen konfigurieren.pdf
 
 :::
