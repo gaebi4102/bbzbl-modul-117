@@ -10,7 +10,7 @@ Praxis Transfer der Theorie.
 ### Auftrag
 Erstellen Sie als Vorbereitung ein Netzwerk Diagramm für ein Schule.
 - Min. ein Switch, Router, WLAN AP und 5 Clients
-Bringen Sie ihr Plakat respektive Video mit.
+- Bringen Sie ihr Plakat respektive Video mit.
 
 ### Bewertung
 
