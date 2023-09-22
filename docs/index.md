@@ -19,9 +19,10 @@ sidebar_position: 1
 |     [Woche&nbsp;5](../woche-05)       |          15.09.2023           | [Kabel und Berechtigungen](./category/woche-5---kabel-und-berechtigungen)    |
 |     Woche&nbsp;6       |          22.09.2023           | [Werkstatt](./category/)               |
 |     Woche&nbsp;7       |          29.09.2023           | [Werkstatt](./category/)               |
-|     **Ferien**         |  **06.10.2023 / 13.10.2023**  |  **Abgabe bis am 13.10.2023 um 23:59** |[Kompetenzmatrix] |     
-|   **Woche&nbsp;8**     |         **20.10.2023**        |  **Fachgespräch Block 1** | [Kompetenzmatrix]| 
-|   **Woche&nbsp;9**     |        **29.10.2023**         |  **Fachgespräch Block 2** | [Kompetenzmatrix]| 
+|     **Ferien**         |  **06.10.2023 / 13.10.2023**  |  **Abgabe bis am 13.10.2023 um 23:59** |[LB2] |     
+|   **Woche&nbsp;8**     |         **20.10.2023**        |  **Fachgespräch Block 1** | [LB3]| 
+|   **Woche&nbsp;9**     |        **29.10.2023**         |  **Fachgespräch Block 2** | [LB3]| 
 
-[Lernjournal]: ./02%20beurteilungen/Lernjournal.md
-[Kompetenzmatrix]: ./02%20beurteilungen/Kompetenzmatrix.md
+[Lernjournal]: ./02%20beurteilungen%20v2/Lernjournal.md
+[LB2]: ./02%20beurteilungen%20v2/LB2%20Know%20How.md
+[LB3]: ./02%20beurteilungen%20v2/LB3%20Fachgespräch.md
