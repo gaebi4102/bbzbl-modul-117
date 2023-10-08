@@ -49,16 +49,13 @@ footer: BBZBL / Gianluca Aebi / Informatik- und Netzinfrastruktur für ein klein
 - IPSec
 - Routing
 
-
 ---
-# Layer 4 - Transport Layer - Transportschicht
+# Layer 4 - Transport Layer - Transportschicht
 - TCP
     - Verbindungsorientiert
     - z.b. E-Mail
 - UDP
     - Verbindungsloss
-    - 
-
 ---
 # Zusammenfasung: 
 
