@@ -24,6 +24,6 @@ sidebar_position: 1
 |   **Woche&nbsp;9**     |        **27.10.2023**         |  **Fachgespräch Block 2** | [LB3]| 
 |                        |        **29.09.2023**           | **Abgabe LB 1** | [Lernjournal] |
 
-[Lernjournal]: ./02%20beurteilungen%20v2/Lernjournal.md
+[Lernjournal]: ./02%20beurteilungen%20v2/LB1%20Lernjournal.md
 [LB2]: ./02%20beurteilungen%20v2/LB2%20Know%20How.md
 [LB3]: ./02%20beurteilungen%20v2/LB3%20Fachgespräch.md
